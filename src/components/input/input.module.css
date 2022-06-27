@@ -1,0 +1,11 @@
+.input{
+    height: 45px;
+    width: 260px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.input :focus{
+    border-color:aquamarine;
+
+}

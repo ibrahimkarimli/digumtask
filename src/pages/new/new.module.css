@@ -1,0 +1,6 @@
+.body{
+    min-height: 200px;
+    max-width: 500px;
+    border:1px solid green;
+    margin: 20px auto 0 auto
+}
